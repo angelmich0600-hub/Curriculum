@@ -251,7 +251,7 @@ footer {
         <!-- AT&T -->
         <div class="project-card">
             <h3>AT&T</h3>
-            <p>GERENTE DE TIENDA — 11 MESES</p>
+            <p>GERENTE DE TIENDA — 11 MESES 2025-2026</p>
 
             <details>
                 <summary>Ver más</summary>
@@ -277,7 +277,7 @@ footer {
         <!-- MACROPAY -->
         <div class="project-card">
             <h3>MACROPAY</h3>
-            <p>ASESOR DE VENTAS Y ENCARGADO — 9 MESES</p>
+            <p>ASESOR DE VENTAS Y ENCARGADO — 9 MESES 2024-2025</p>
 
             <details>
                 <summary>Ver más</summary>
