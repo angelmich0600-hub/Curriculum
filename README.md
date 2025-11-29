@@ -3,6 +3,8 @@
 
 
 
+
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -199,7 +201,7 @@ footer {
 <header>
     <h1>ANGEL MICHEL LOPEZ GARCIA</h1>
     <p>EXPERTO EN VENTAS • ENCARGADO • MARKETING • DISEÑO DE PUBLICIDAD</p>
-    <img src="https://scontent.fisj1-1.fna.fbcdn.net/v/t39.30808-6/474257451_1125606045685499_1736759892805951741_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=a5f93a&_nc_ohc=eSizpKzxQ-AQ7kNvwF-bPi6&_nc_oc=AdliDlnYj5Cmbi5nAUFbnpXcDKQ4zRLZLcy0Qq5_qS-RkwvoPHoFKxPwfMv0ay7tWrw&_nc_zt=23&_nc_ht=scontent.fisj1-1.fna&_nc_gid=GIdVYSZ6Rw0n2Hx5lD4Ukw&oh=00_Afj3TVmZRlDcGODfrWR7T7Ld_p9ipKNUJcQrgrGmW-3RNQ&oe=692D0931" class="foto-superior" alt="Foto de Angel Michel">
+    <img src="https://i.postimg.cc/Gpy97LJ2/1760930478557.png" class="foto-superior" alt="Foto de Angel Michel">
 </header>
 
 <nav>
@@ -264,7 +266,7 @@ footer {
                     </p>
 
                     <img 
-                        src="https://scontent.fisj1-1.fna.fbcdn.net/v/t39.30808-6/561648145_122146969688722748_7652924657870108957_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=d1M55pDFv2MQ7kNvwFEBuKq&_nc_oc=AdlcqdhBgPFElUyGzpFNvteNn1XobJ7fX2h1hohA2It2vvzcjBPJ0s1PhEt6TSYJQpE&_nc_zt=23&_nc_ht=scontent.fisj1-1.fna&_nc_gid=foml9GFzYsiIQtQxfVJL4w&oh=00_AfjFLCy_HX66ZnKQwx0LcO5QOYTkvnrPVeG2aitYyAQU_A&oe=692D5B75"
+                        src="https://i.postimg.cc/CKxp5mdh/IMG-20250224-WA0005.jpg"
                         class="img-detalle" 
                         alt="AT&T"
                     >
@@ -290,7 +292,7 @@ footer {
                     </p>
 
                     <img 
-                        src="https://newspack-yucatan.s3.amazonaws.com/uploads/2021/12/foto-1.jpg"
+                        src="https://i.postimg.cc/HkbfBF8W/IMG-20241018-WA0108.jpg"
                         class="img-detalle" 
                         alt="Macropay"
                     >
