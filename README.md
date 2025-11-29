@@ -1,4 +1,8 @@
 
+
+
+
+
 <html lang="es">
 <head>
 <meta charset="UTF-8">
@@ -31,20 +35,20 @@ body::before {
     background: radial-gradient(circle at 30% 20%, #0ff2, transparent 50%),
                 radial-gradient(circle at 70% 70%, #0ff1, transparent 50%),
                 url('https://www.transparenttextures.com/patterns/cubes.png');
-    opacity: 0.2;
-    animation: floatBg 45s infinite linear;
-    z-index: -1;
+    opacity: 0.3;
+    animation: floatBg 15s infinite linear;
+    z-index: -8;
 }
 
 @keyframes floatBg {
-    from { transform: translateY(0); }
-    to { transform: translateY(-300px); }
+    from { transform: translateY(50); }
+    to { transform: translateY(-100px); }
 }
 
 /* ===== HEADER ===== */
 header {
     text-align: center;
-    padding: 80px 20px;
+    padding: 10px 20px;
 }
 
 header h1 {
@@ -66,9 +70,9 @@ header p {
     margin-top: 30px;
     width: 200px;
     height: 200px;
-    border-radius: 50%;
+    border-radius: 150%;
     object-fit: cover;
-    border: 2px solid #00eaff;
+    border: 1px solid #00eaff;
     box-shadow: 0 0 15px #00eaff88;
 }
 
@@ -88,7 +92,7 @@ nav a {
 }
 
 nav a:hover {
-    opacity: 1;
+    opacity: 15;
     text-shadow: 0 0 10px #00eaff;
 }
 
@@ -162,7 +166,7 @@ details summary:hover {
 /* ===== IMAGENES DETALLE ===== */
 .img-detalle {
     width: 100%;
-    max-height: 180px;   /* evita que sea muy grande */
+    max-height: 250px;   /* evita que sea muy grande */
     object-fit: cover;   /* recorte elegante */
     border-radius: 10px;
     margin-top: 15px;
@@ -320,8 +324,18 @@ footer {
     <h2>Contacto</h2>
     <p>Email: <strong>angelmichellopezgarcia@gmail.com</strong></p>
     <p>Teléfono: <strong>5630-8991-73</strong></p>
-    <p>Facebook: <a href="https://www.facebook.com/michel.326842" target="_blank" style="color:#00eaff;">michel.326842</a></p>
+    <p>Facebook: 
+        <a href="https://www.facebook.com/michel.326842" target="_blank" style="color:#00eaff;">
+            michel.326842
+        </a>
+    </p>
+    <p>WhatsApp: 
+        <a href="https://wa.me/525630899173" target="_blank" style="color:#25D366;">
+            Enviar mensaje
+        </a>
+    </p>
 </section>
+
 
 <footer>
     © 2025 - ANGEL MICHEL LOPEZ GARCIA - EXPERIENCIA LABORAL
