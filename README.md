@@ -325,14 +325,14 @@ footer {
 <section id="contacto">
     <h2>Contacto</h2>
     <p>Email: <strong>angelmichellopezgarcia@gmail.com</strong></p>
-    <p>Teléfono: <strong>5630-8991-73</strong></p>
+    <p>Teléfono: <strong>56-10032-002</strong></p>
     <p>Facebook: 
         <a href="https://www.facebook.com/michel.326842" target="_blank" style="color:#00eaff;">
             michel.326842
         </a>
     </p>
     <p>WhatsApp: 
-        <a href="https://wa.me/525630899173" target="_blank" style="color:#25D366;">
+        <a href="https://wa.me/525610032002" target="_blank" style="color:#25D366;">
             Enviar mensaje
         </a>
     </p>
