@@ -292,7 +292,7 @@ footer {
                     </p>
 
                     <img 
-                        src="https://i.postimg.cc/HkbfBF8W/IMG-20241018-WA0108.jpg"
+                        src="https://i.postimg.cc/RVYB3DdW/IMG-20260218-WA0005.jpg"
                         class="img-detalle" 
                         alt="Macropay"
                     >
